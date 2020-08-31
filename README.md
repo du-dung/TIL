@@ -1,2 +1,5 @@
-# TIL
-Today I Learned... (Short)
+# TIL:thinking:
+
+Logs of the things I learned today
+
+Beginning August 31, 2020
